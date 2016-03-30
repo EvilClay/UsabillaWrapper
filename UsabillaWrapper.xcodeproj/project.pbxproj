@@ -36,7 +36,7 @@
 		3E8B2D911CAC04C70025D637 /* USAFeedbackController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E8B2D891CAC04C70025D637 /* USAFeedbackController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E8B2D921CAC04C70025D637 /* USAFeedbackControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E8B2D8A1CAC04C70025D637 /* USAFeedbackControllerDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E8B2D941CAC04E60025D637 /* libubForm-release-1.6.6.6.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E8B2D931CAC04E60025D637 /* libubForm-release-1.6.6.6.a */; };
-		3E8B2D971CAC069F0025D637 /* MBProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E8B2D951CAC069F0025D637 /* MBProgressHUD.h */; };
+		3E8B2D971CAC069F0025D637 /* MBProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E8B2D951CAC069F0025D637 /* MBProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E8B2D981CAC069F0025D637 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B2D961CAC069F0025D637 /* MBProgressHUD.m */; };
 		3E8B2D9F1CAC0B8C0025D637 /* BEMAnimationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E8B2D991CAC0B8C0025D637 /* BEMAnimationManager.h */; };
 		3E8B2DA01CAC0B8C0025D637 /* BEMAnimationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B2D9A1CAC0B8C0025D637 /* BEMAnimationManager.m */; };
