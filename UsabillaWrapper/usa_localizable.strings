@@ -1,0 +1,18 @@
+/* 
+ Localizable.strings
+ ubForm
+ 
+ Created by Giacomo Pinato on 22/01/16.
+ Copyright © 2016 Usabilla. All rights reserved.
+ */
+
+//Default usabilla english localisation
+"usa_field_placeholder" = "Tap to edit";
+"usa_thank_you_dialog_more_feedback" = "Give more feedback";
+"usa_thank_you_dialog_done" = "Return to App";
+"usa_fix_errors" = "Please check the fields marked in red";
+"usa_fix_errors_ok" = "OK";
+"usa_remove_feedback_dialog" = "Are you sure you want to remove the screenshot from your feedback?";
+"usa_remove_feedback_dialog_remove" = "Remove";
+"usa_remove_feedback_dialog_cancel" = "No";
+"usa_invite_rate_app_store" = "Rate on the App Store";
